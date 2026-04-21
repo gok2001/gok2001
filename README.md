@@ -1,11 +1,11 @@
-## 👋 Olá, sou o Guilherme
+# 👋 Olá, sou o Guilherme
 
 💻 Estudante de programação com foco em backend e Linux
 
 ⚙️ Interessado em automação, sistemas e desenvolvimento prático
 
 ---
-### 🚀 Tecnologias e ferramentas
+## 🚀 Tecnologias e ferramentas
 
 - 🐧 Linux (uso diário e aprendizado contínuo)
 - 🐍 Python (POO)
@@ -18,7 +18,7 @@
 - 🌐 Conceitos básicos de redes
 
 ---
-### 📚 Atualmente estudando
+## 📚 Atualmente estudando
 
 - Estrutura e funcionamento de sistemas Linux
 - Automação com Shell Script
@@ -28,6 +28,6 @@
 - Conceitos básicos de MySQL
 
 ---
-### 🎯 Objetivo
+## 🎯 Objetivo
 
 Evoluir como desenvolvedor backend e adquirir experiência prática na área de tecnologia, com foco em sistemas e automação.
