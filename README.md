@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋 Olá, sou o Guilherme
 
 <!--
 **gok2001/gok2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 Estudante de programação com foco em backend e Linux
+⚙️ Interessado em automação, sistemas e desenvolvimento prático
+---
+### 🚀 Tecnologias e ferramentas
+
+- 🐧 Linux (uso diário e aprendizado contínuo)
+- 🐍 Python (POO)
+- 🌐 Django (básico)
+- 🖥️ JavaScript (frontend básico)
+- ☕ Java (básico)
+- 🗄️ MySQL (básico)
+- ⚙️ Shell Script (básico)
+- 🔗 Git e GitHub
+- 🌐 Conceitos básicos de redes
