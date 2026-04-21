@@ -1,4 +1,4 @@
-##👋 Olá, sou o Guilherme
+## 👋 Olá, sou o Guilherme
 
 <!--
 **gok2001/gok2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +28,9 @@ Here are some ideas to get you started:
 - ⚙️ Shell Script (básico)
 - 🔗 Git e GitHub
 - 🌐 Conceitos básicos de redes
+
+---
+
+### 🎯 Objetivo
+
+Evoluir como desenvolvedor backend e adquirir experiência prática na área de tecnologia, com foco em sistemas e automação.
