@@ -1,6 +1,7 @@
 ## 👋 Olá, sou o Guilherme
 
 💻 Estudante de programação com foco em backend e Linux
+
 ⚙️ Interessado em automação, sistemas e desenvolvimento prático
 
 ---
